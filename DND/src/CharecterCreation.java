@@ -49,6 +49,7 @@ public class CharecterCreation
 				System.out.println("             <W");
 				System.out.println("             (O)");
 				Thread.sleep(2000);
+				System.out.println("lol");
 				System.out.println("Hello, I hope your ready to play an awesome game of DnD.");
 				System.out.println("First of all you need to choose your Character's name so...");
 				System.out.println("What do you want your characters name to be?");
